@@ -51,7 +51,7 @@ This repository contains implementations of various Natural Language Processing 
    - Build an N-gram language model (bigram/trigram).
    - Implement smoothing techniques (Laplace, Kneser-Ney).
    - Generate context-aware suggestions for partial sentences.
-   - 
+     
 ##  Additional Assignments
 
 Extra lab assignments are also available on advanced topics such as:
